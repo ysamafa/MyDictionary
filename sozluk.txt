@@ -1,0 +1,300 @@
+# MY DICTIONARY Kelime Veri Tabanı
+# Format: tür;ingilizce;türkçe;grup;örnek_cümle;eş_ve_zıt_anlam
+Fiil;abandon;terk etmek;Genel;Many baby girls have been abandoned on the streets of Beijing.;Eş: desolate, lurch, give | Zıt: 
+Fiil;accomplish;başarmak;Genel;to accomplish a design, an object, a promise;Eş: attain, reach, carry out | Zıt: 
+Fiil;acknowledge;kabul etmek;Genel;to acknowledge the being of a god;Eş: recognize, admit, know | Zıt: deny
+Fiil;acquire;edinmek;Genel;to acquire a skill;Eş: produce, develop, take | Zıt: 
+Fiil;adapt;uyum sağlamak;Genel;to adapt a story for the stage;Eş: embrace, accommodate, conform | Zıt: 
+Fiil;adjust;ayarlamak;Genel;Morimoto's recipes are adjusted to suit the American palate.;Eş: set, conform, adapt | Zıt: skew
+Fiil;admit;itiraf etmek;Genel;to admit a serious thought into the mind;Eş: hold, accommodate, acknowledge | Zıt: compelling, reject, refuse
+Fiil;advocate;savunmak;Genel
+Fiil;alleviate;hafifletmek;Genel;;Eş: facilitate, assuage, palliate | Zıt: 
+Fiil;allocate;tahsis etmek;Genel
+Fiil;anticipate;öngörmek;Genel;;Eş: call, forestall, foretell | Zıt:
+Fiil;appreciate;takdir etmek;Genel;;Eş: desolate, lurch, give | Zıt: Zıt:
+Fiil;approach;yaklaşmak;Genel
+Fiil;assess;değerlendirmek;Genel
+Fiil;assume;varsaymak;Genel
+Fiil;attain;ulaşmak;Genel
+Fiil;clarify;netleştirmek;Genel
+Fiil;collaborate;işbirliği yapmak;Genel
+Fiil;compensate;tazmin etmek;Genel
+Fiil;comprehend;kavramak;Genel
+Fiil;conduct;yürütmek;Genel
+Fiil;confront;yüzleşmek;Genel
+Fiil;consent;razı olmak;Genel
+Fiil;contradict;çelişmek;Genel
+Fiil;contribute;katkıda bulunmak;Genel
+Fiil;convey;iletmek;Genel
+Fiil;convince;ikna etmek;Genel
+Fiil;cope;başa çıkmak;Genel
+Fiil;criticize;eleştirmek;Genel
+Fiil;deceive;aldatmak;Genel
+Fiil;demonstrate;kanıtlamak;Genel
+Fiil;deteriorate;kötüleşmek;Genel
+Fiil;determine;belirlemek;Genel
+Fiil;disclose;ifşa etmek;Genel
+Fiil;distinguish;ayırt etmek;Genel
+Fiil;distribute;dağıtmak;Genel
+Fiil;eliminate;ortadan kaldırmak;Genel
+Fiil;emerge;ortaya çıkmak;Genel
+Fiil;emphasize;vurgulamak;Genel
+Fiil;encounter;karşılaşmak;Genel
+Fiil;endure;dayanmak;Genel
+Fiil;enhance;güçlendirmek;Genel
+Fiil;ensure;temin etmek;Genel
+Fiil;establish;kurmak;Genel
+Fiil;exaggerate;abartmak;Genel
+Fiil;exceed;aşmak;Genel
+Fiil;exclude;dışlamak;Genel
+Fiil;expose;maruz bırakmak;Genel
+Fiil;facilitate;kolaylaştırmak;Genel
+Fiil;fulfill;yerine getirmek;Genel
+Fiil;generate;üretmek;Genel
+Fiil;identify;tanımlamak;Genel
+Fiil;illustrate;örneklemek;Genel
+Fiil;implement;uygulamak;Genel
+Fiil;imply;ima etmek;Genel
+Fiil;impose;dayatmak;Genel
+Fiil;incorporate;dahil etmek;Genel
+Fiil;indicate;belirtmek;Genel
+Fiil;initiate;başlatmak;Genel
+Fiil;inspire;ilham vermek;Genel
+Fiil;integrate;bütünleştirmek;Genel
+Fiil;interfere;müdahale etmek;Genel
+Fiil;interpret;yorumlamak;Genel
+Fiil;investigate;araştırmak;Genel
+Fiil;justify;haklı çıkarmak;Genel
+Fiil;maintain;sürdürmek;Genel
+Fiil;minimize;en aza indirmek;Genel
+Fiil;modify;değiştirmek;Genel
+Fiil;motivate;motive etmek;Genel
+Fiil;neglect;ihmal etmek;Genel
+Fiil;negotiate;müzakere etmek;Genel
+Fiil;obtain;elde etmek;Genel
+Fiil;oppose;karşı çıkmak;Genel
+Fiil;overcome;üstesinden gelmek;Genel
+Fiil;participate;katılmak;Genel
+Fiil;perceive;algılamak;Genel
+Fiil;persist;ısrar etmek;Genel
+Fiil;postpone;ertelemek;Genel
+Fiil;predict;tahmin etmek;Genel
+Fiil;prioritize;öncelik vermek;Genel
+Fiil;promote;tanıtmak;Genel
+Fiil;pursue;peşinden gitmek;Genel
+Fiil;recall;hatırlamak;Genel
+Fiil;reconcile;uzlaştırmak;Genel
+Fiil;reduce;azaltmak;Genel
+Fiil;reflect;yansıtmak;Genel
+Fiil;reinforce;pekiştirmek;Genel
+Fiil;reject;reddetmek;Genel
+Fiil;rely;güvenmek;Genel
+Fiil;resolve;çözmek;Genel
+Fiil;restrict;sınırlamak;Genel
+Fiil;retain;elde tutmak;Genel
+Fiil;reveal;açığa vurmak;Genel
+Fiil;stimulate;uyarmak;Genel
+Fiil;strive;çabalamak;Genel
+Fiil;submit;sunmak;Genel
+Fiil;substitute;yerine koymak;Genel
+Fiil;suppress;bastırmak;Genel
+Fiil;tolerate;hoş görmek;Genel
+Fiil;transform;dönüştürmek;Genel
+Fiil;undergo;geçirmek;Genel
+Fiil;utilize;kullanmak;Genel
+Fiil;verify;doğrulamak;Genel
+Fiil;withdraw;geri çekmek;Genel
+Sıfat;abundant;bol;Genel
+Sıfat;accurate;isabetli;Genel
+Sıfat;adequate;yeterli;Genel
+Sıfat;ambiguous;belirsiz;Genel
+Sıfat;ambitious;hırslı;Genel
+Sıfat;anxious;endişeli;Genel
+Sıfat;apparent;belirgin;Genel
+Sıfat;appropriate;uygun;Genel
+Sıfat;arbitrary;keyfi;Genel
+Sıfat;authentic;orijinal;Genel
+Sıfat;awkward;beceriksiz;Genel
+Sıfat;beneficial;faydalı;Genel
+Sıfat;brilliant;parlak;Genel
+Sıfat;cautious;temkinli;Genel
+Sıfat;coherent;tutarlı;Genel
+Sıfat;compatible;uyumlu;Genel
+Sıfat;complex;karmaşık;Genel
+Sıfat;comprehensive;kapsamlı;Genel
+Sıfat;concise;özlü;Genel
+Sıfat;considerable;hatırı sayılır;Genel
+Sıfat;consistent;istikrarlı;Genel
+Sıfat;controversial;tartışmalı;Genel
+Sıfat;crucial;kritik;Genel
+Sıfat;curious;meraklı;Genel
+Sıfat;decent;düzgün;Genel
+Sıfat;deliberate;kasıtlı;Genel
+Sıfat;dense;sık;Genel
+Sıfat;diverse;çeşitli;Genel
+Sıfat;drastic;radikal;Genel
+Sıfat;eager;istekli;Genel
+Sıfat;efficient;verimli;Genel
+Sıfat;elegant;zarif;Genel
+Sıfat;essential;vazgeçilmez;Genel
+Sıfat;evident;belli;Genel
+Sıfat;exceptional;olağanüstü;Genel
+Sıfat;excessive;aşırı;Genel
+Sıfat;explicit;açık;Genel
+Sıfat;fierce;şiddetli;Genel
+Sıfat;flexible;esnek;Genel
+Sıfat;fragile;kırılgan;Genel
+Sıfat;genuine;gerçek;Genel
+Sıfat;hostile;düşmanca;Genel
+Sıfat;humble;alçakgönüllü;Genel
+Sıfat;hypothetical;varsayımsal;Genel
+Sıfat;inevitable;kaçınılmaz;Genel
+Sıfat;influential;etkili;Genel
+Sıfat;innovative;yenilikçi;Genel
+Sıfat;intense;yoğun;Genel
+Sıfat;legitimate;meşru;Genel
+Sıfat;mature;olgun;Genel
+Sıfat;mutual;karşılıklı;Genel
+Sıfat;obsolete;modası geçmiş;Genel
+Sıfat;obvious;bariz;Genel
+Sıfat;optimistic;iyimser;Genel
+Sıfat;outstanding;seçkin;Genel
+Sıfat;overwhelming;ezici;Genel
+Sıfat;persistent;ısrarlı;Genel
+Sıfat;plausible;makul;Genel
+Sıfat;potential;olası;Genel
+Sıfat;practical;pratik;Genel
+Sıfat;precise;kesin;Genel
+Sıfat;profound;derin;Genel
+Sıfat;prominent;önde gelen;Genel
+Sıfat;rational;mantıklı;Genel
+Sıfat;reliable;güvenilir;Genel
+Sıfat;reluctant;isteksiz;Genel
+Sıfat;remarkable;dikkate değer;Genel
+Sıfat;resilient;dirençli;Genel
+Sıfat;rigid;katı;Genel
+Sıfat;robust;sağlam;Genel
+Sıfat;significant;önemli;Genel
+Sıfat;skeptical;şüpheci;Genel
+Sıfat;sophisticated;gelişmiş;Genel
+Sıfat;spontaneous;kendiliğinden;Genel
+Sıfat;stable;kararlı;Genel
+Sıfat;subtle;ince;Genel
+Sıfat;superficial;yüzeysel;Genel
+Sıfat;temporary;geçici;Genel
+Sıfat;tremendous;muazzam;Genel
+Sıfat;ultimate;nihai;Genel
+Sıfat;unprecedented;eşi görülmemiş;Genel
+Sıfat;vague;muğlak;Genel
+Sıfat;valid;geçerli;Genel
+Sıfat;vital;hayati;Genel
+Sıfat;vulnerable;savunmasız;Genel
+Sıfat;widespread;yaygın;Genel
+İsim;advantage;üstünlük;Genel
+İsim;approach;yaklaşım;Genel
+İsim;aspect;yön;Genel
+İsim;assumption;varsayım;Genel
+İsim;attitude;tutum;Genel
+İsim;barrier;engel;Genel
+İsim;benefit;yarar;Genel
+İsim;challenge;zorluk;Genel
+İsim;circumstance;koşul;Genel
+İsim;commitment;bağlılık;Genel
+İsim;consequence;sonuç;Genel
+İsim;consumer;tüketici;Genel
+İsim;controversy;tartışma;Genel
+İsim;criterion;ölçüt;Genel
+İsim;dilemma;ikilem;Genel
+İsim;distinction;ayrım;Genel
+İsim;efficiency;verimlilik;Genel
+İsim;emphasis;vurgu;Genel
+İsim;evidence;kanıt;Genel
+İsim;expertise;uzmanlık;Genel
+İsim;factor;etken;Genel
+İsim;feature;özellik;Genel
+İsim;framework;çerçeve;Genel
+İsim;gap;boşluk;Genel
+İsim;guideline;yönerge;Genel
+İsim;hypothesis;hipotez;Genel
+İsim;impact;etki;Genel
+İsim;incentive;teşvik;Genel
+İsim;income;gelir;Genel
+İsim;innovation;yenilik;Genel
+İsim;insight;kavrayış;Genel
+İsim;instance;örnek;Genel
+İsim;interval;aralık;Genel
+İsim;issue;mesele;Genel
+İsim;legislation;mevzuat;Genel
+İsim;limitation;sınırlama;Genel
+İsim;majority;çoğunluk;Genel
+İsim;mechanism;mekanizma;Genel
+İsim;migration;göç;Genel
+İsim;obligation;yükümlülük;Genel
+İsim;outcome;netice;Genel
+İsim;perspective;bakış açısı;Genel
+İsim;phenomenon;olgu;Genel
+İsim;policy;politika;Genel
+İsim;priority;öncelik;Genel
+İsim;privilege;ayrıcalık;Genel
+İsim;proportion;oran;Genel
+İsim;reputation;itibar;Genel
+İsim;resource;kaynak;Genel
+İsim;response;yanıt;Genel
+İsim;scarcity;kıtlık;Genel
+İsim;sequence;sıra;Genel
+İsim;shortage;eksiklik;Genel
+İsim;strategy;strateji;Genel
+İsim;sustainability;sürdürülebilirlik;Genel
+İsim;tendency;eğilim;Genel
+İsim;threshold;eşik;Genel
+İsim;trend;akım;Genel
+İsim;welfare;refah;Genel
+İsim;workforce;iş gücü;Genel
+Zarf;accordingly;buna göre;Genel
+Zarf;apparently;görünüşe göre;Genel
+Zarf;briefly;kısaca;Genel
+Zarf;consequently;sonuç olarak;Genel
+Zarf;currently;şu anda;Genel
+Zarf;eventually;sonunda;Genel
+Zarf;furthermore;ayrıca;Genel
+Zarf;gradually;giderek;Genel
+Zarf;hardly;neredeyse hiç;Genel
+Zarf;immediately;derhal;Genel
+Zarf;increasingly;gitgide;Genel
+Zarf;likewise;aynı şekilde;Genel
+Zarf;meanwhile;bu arada;Genel
+Zarf;nevertheless;yine de;Genel
+Zarf;notably;özellikle;Genel
+Zarf;presumably;muhtemelen;Genel
+Zarf;rarely;nadiren;Genel
+Zarf;roughly;kabaca;Genel
+Zarf;seemingly;görünüşte;Genel
+Zarf;simultaneously;aynı anda;Genel
+Zarf;thoroughly;iyice;Genel
+Zarf;virtually;hemen hemen;Genel
+Phrasal Verb;break down;bozulmak;Genel
+Phrasal Verb;bring up;gündeme getirmek;Genel
+Phrasal Verb;call off;iptal etmek;Genel
+Phrasal Verb;carry out;gerçekleştirmek;Genel
+Phrasal Verb;come across;rastlamak;Genel
+Phrasal Verb;come up with;akıl etmek;Genel
+Phrasal Verb;cut down on;kısmak;Genel
+Phrasal Verb;deal with;ilgilenmek;Genel
+Phrasal Verb;figure out;anlamak;Genel
+Phrasal Verb;fill in;doldurmak;Genel
+Phrasal Verb;get along with;iyi geçinmek;Genel
+Phrasal Verb;get over;atlatmak;Genel
+Phrasal Verb;give up;pes etmek;Genel
+Phrasal Verb;go through;yaşamak;Genel
+Phrasal Verb;hold on;beklemek;Genel
+Phrasal Verb;look after;bakmak;Genel
+Phrasal Verb;look into;incelemek;Genel
+Phrasal Verb;make up for;telafi etmek;Genel
+Phrasal Verb;pass out;bayılmak;Genel
+Phrasal Verb;point out;işaret etmek;Genel
+Phrasal Verb;put off;savsaklamak;Genel
+Phrasal Verb;run out of;tükenmek;Genel
+Phrasal Verb;set up;düzenlemek;Genel
+Phrasal Verb;take over;devralmak;Genel
+Phrasal Verb;turn down;geri çevirmek;Genel
+Phrasal Verb;work out;egzersiz yapmak;Genel
